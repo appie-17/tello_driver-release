@@ -1,3 +1,26 @@
+## tello_driver (kinetic) - 0.3.1-3
+
+The packages in the `tello_driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic tello_driver` on `Sun, 10 May 2020 13:02:28 -0000`
+
+The `tello_driver` package was released.
+
+Version of package(s) in repository `tello_driver`:
+
+- upstream repository: https://github.com/appie-17/tello_driver.git
+- release repository: https://github.com/appie-17/tello_driver-release.git
+- rosdistro version: `0.3.1-2`
+- old version: `0.3.1-2`
+- new version: `0.3.1-3`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.8.1`
+- vcstools version: `0.1.42`
+
+
 ## tello_driver (kinetic) - 0.3.1-2
 
 The packages in the `tello_driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release tello_driver --rosdistro kinetic` on `Sat, 26 Oct 2019 13:27:27 -0000`
